@@ -12,3 +12,5 @@ object P01 {
 		println(last(l))
 	}
 }
+
+//xxxxxxxxxxxxxx
